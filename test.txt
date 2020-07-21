@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is D2D6-1A1C
+
+ Directory of C:\Users\sharanappa\Desktop\MyProject
+
+07/21/2020  12:25 PM    <DIR>          .
+07/21/2020  12:25 PM    <DIR>          ..
+07/21/2020  11:44 AM               361 file.txt
+07/21/2020  12:24 PM               412 index.html
+07/21/2020  12:25 PM                 0 test.txt
+               3 File(s)            773 bytes
+               2 Dir(s)  215,848,132,608 bytes free
