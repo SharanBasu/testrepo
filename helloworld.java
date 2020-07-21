@@ -1,4 +1,6 @@
 
 class public{
  public static void main(strings args[]){
- println.out.
+ System.out.println("HELLO_WORLD")
+ }
+}
